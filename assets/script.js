@@ -68,16 +68,6 @@ function loadGrid() {
     fetch('./assets/EF25LIST.json')
     .then((res) => res.json())
     .then((artistData) => {
-      var lookup = {};
-      var result = [];
-      for (var unique, i = 0; unique = artistData[i++];) {
-        var val = unique.Genre;
-        if (!(val in lookup)) {
-          lookup[val] = 1;
-          result.push(val);
-        }
-      }
-      console.log(result);
     if (grid) {
       artistData.forEach((artist, i) => grid.appendChild(createCard(artist, i)));
     }})
