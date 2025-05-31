@@ -1,0 +1,102 @@
+body {
+  background-color: #0e0e0e;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  color: #00f5ff;
+  margin-bottom: 2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: #1a1a1a;
+  padding: 1rem;
+  border: 1px solid #333;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.4);
+}
+
+.artist-detail {
+  max-width: 800px;
+  margin: auto;
+  background: #1c1c1c;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #00f5ff;
+  text-decoration: none;
+}
+
+.back:hover {
+  text-decoration: underline;
+}
+
+ul li a {
+  color: #00f5ff;
+  text-decoration: underline;
+}
+
+.genre-funk-world { border-left: 5px solid #FF6347; }
+.genre-dnb { border-left: 5px solid #DC143C; }
+.genre-pop { border-left: 5px solid #FF69B4; }
+.genre-chill-violin { border-left: 5px solid #DA70D6; }
+.genre-house-disco { border-left: 5px solid #7B68EE; }
+.genre-indie-jam { border-left: 5px solid #8FBC8F; }
+.genre-house { border-left: 5px solid #4682B4; }
+.genre-electro-house { border-left: 5px solid #5F9EA0; }
+.genre-techno { border-left: 5px solid #2F4F4F; }
+.genre-dubstep { border-left: 5px solid #8B0000; }
+.genre-garage { border-left: 5px solid #556B2F; }
+.genre-prog-house { border-left: 5px solid #483D8B; }
+.genre-tech-house { border-left: 5px solid #708090; }
+.genre-bass { border-left: 5px solid #00008B; }
+.genre-ethereal { border-left: 5px solid #9932CC; }
+.genre-edm-pop { border-left: 5px solid #20B2AA; }
+.genre-bass-house { border-left: 5px solid #00CED1; }
+.genre-dance-pop { border-left: 5px solid #40E0D0; }
+.genre-synth-trance { border-left: 5px solid #00FFFF; }
+.genre-edm { border-left: 5px solid #1E90FF; }
+.genre-jamband { border-left: 5px solid #3CB371; }
+.genre-electro-pop { border-left: 5px solid #7FFF00; }
+.genre-indie-pop { border-left: 5px solid #ADFF2F; }
+.genre-jungle-dnb { border-left: 5px solid #9ACD32; }
+.genre-world-dance { border-left: 5px solid #6B8E23; }
+.genre-house-trance { border-left: 5px solid #FF4500; }
+.genre-electro { border-left: 5px solid #B22222; }
+.genre-rap { border-left: 5px solid #A52A2A; }
+.genre-electro-jamband { border-left: 5px solid #CD5C5C; }
+.genre-trance { border-left: 5px solid #FF8C00; }
+.genre-house-dnb { border-left: 5px solid #FFA500; }
+.genre-glitch-remixes { border-left: 5px solid #FFD700; }
+.genre-electronica { border-left: 5px solid #F0E68C; }
+.genre-dance { border-left: 5px solid #E6E6FA; }
+.genre-rnb-funk { border-left: 5px solid #DDA0DD; }
+.genre-indie-folk { border-left: 5px solid #EE82EE; }
+.genre-uk-garage { border-left: 5px solid #FF00FF; }
+.genre-indie-dance { border-left: 5px solid #BA55D3; }
+.genre-indie { border-left: 5px solid #9932CC; }
+.genre-techpop-hyperpop { border-left: 5px solid #DA70D6; }
+.genre-rnb-funk-rap { border-left: 5px solid #C71585; }
+.genre-dubstep-bass { border-left: 5px solid #800080; }
