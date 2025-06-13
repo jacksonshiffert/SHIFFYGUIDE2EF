@@ -1,5 +1,93 @@
 [
   {
+    "Name": "Hayla",
+    "Genre": "Pop",
+    "Rating (1-5)": 3.1,
+    "Avg BPM": 128,
+    "Day": 1,
+    "Description": "Really powerful voice. Many edm vocalist hits on other producer's songs. Not sure how to rate this, since the songs don't follow much of a trend.",
+    "Links to the good stuff": "https://www.youtube.com/embed/LzokJlRxRE4",
+    "Geography": "",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Austeria",
+    "Genre": "Bass",
+    "Rating (1-5)": 3,
+    "Avg BPM": 140,
+    "Day": 1,
+    "Description": "Lesser known bass DJ. Would be a decent viewing just to dip your toes into bass, but idk if my toes will come back. Kreashawn remix @18:30.",
+    "Links to the good stuff": "https://www.youtube.com/embed/-PUZo0fJ--Y",
+    "Geography": "",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Jenna Shaw",
+    "Genre": "Trance",
+    "Rating (1-5)": 4.7,
+    "Avg BPM": 156,
+    "Day": 1,
+    "Description": "This girl is the mix between trance, DnB, and goth that I didn't know I needed. The vibe you get to when your last two brain cells have rabid possum energy.",
+    "Links to the good stuff": "https://www.youtube.com/embed/wsZnlAddGR8",
+    "Geography": "Austin, TX",
+    "Rating rounded": 5
+  },
+  {
+    "Name": "Lumasi",
+    "Genre": "Bass",
+    "Rating (1-5)": 2.9,
+    "Avg BPM": 135,
+    "Day": 1,
+    "Description": "This guy is hyper-focused on the biggest baddest bassiest drops he can muster. The tones are wubbery.",
+    "Links to the good stuff": "https://www.youtube.com/embed/t5quf5Oa4U4",
+    "Geography": "",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Seth David",
+    "Genre": "Dubstep",
+    "Rating (1-5)": 3,
+    "Avg BPM": 142,
+    "Day": 1,
+    "Description": "It's another dubstep artist who makes remixes. I was going to give this a poor rating, but then I heard this remix of my humps. No promises on the live set.",
+    "Links to the good stuff": "https://www.youtube.com/embed/b5MUTMA8P-M",
+    "Geography": "Chicago",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Smoakland",
+    "Genre": "Dubstep",
+    "Rating (1-5)": 2.4,
+    "Avg BPM": 150,
+    "Day": 1,
+    "Description": "Once encouraged the crowd to \"hit yuor penjamin\". It's not all unbearable millenial shit tho.",
+    "Links to the good stuff": "https://www.youtube.com/embed/Xt8ZeUmXIFs",
+    "Geography": "",
+    "Rating rounded": 2
+  },
+  {
+    "Name": "Veil",
+    "Genre": "Dubstep",
+    "Rating (1-5)": 1.9,
+    "Avg BPM": 140,
+    "Day": 1,
+    "Description": "Where did the dubstep come from? and why is it here?",
+    "Links to the good stuff": "https://www.youtube.com/embed/HISpoWoIhOw",
+    "Geography": "",
+    "Rating rounded": 2
+  },
+  {
+    "Name": "Zusha",
+    "Genre": "Jam",
+    "Rating (1-5)": 3.9,
+    "Avg BPM": 130,
+    "Day": 1,
+    "Description": "Hasidic jews jammin out and singing in yiddish a lot I think. Got some super flowy syncopated rhiythms. Shades of Matisyahu.",
+    "Links to the good stuff": "https://www.youtube.com/embed/oGjzMOHwiKk",
+    "Geography": "",
+    "Rating rounded": 4
+  },
+  {
     "Name": "BALTHVS",
     "Genre": "Funk, World",
     "Rating (1-5)": 4.9,
@@ -231,6 +319,50 @@
     "Rating rounded": 4
   },
   {
+    "Name": "Sunsquabi",
+    "Genre": "Jam",
+    "Rating (1-5)": 4.8,
+    "Avg BPM": 110,
+    "Day": 2,
+    "Description": "The only artist on this whole damn lineup that I've actually seen live. They're a three piece funky electro jam band with the most bumpin-est bass sounds on Earth. Damn near blew my socks off.",
+    "Links to the good stuff": "https://www.youtube.com/embed/9NetftIHmqU",
+    "Geography": "Denver",
+    "Rating rounded": 5
+  },
+  {
+    "Name": "Amenti",
+    "Genre": "House",
+    "Rating (1-5)": 4.1,
+    "Avg BPM": 122,
+    "Day": 2,
+    "Description": "This music sounds way too cool for this guy to be the one making it, but it's dope regardless. Music for eating dates on a yacht going 100mph (87 knots) casually.",
+    "Links to the good stuff": "https://www.youtube.com/embed/yZNUv_eykY0",
+    "Geography": "",
+    "Rating rounded": 4
+  },
+  {
+    "Name": "DJ Brownie",
+    "Genre": "EDM",
+    "Rating (1-5)": 3.7,
+    "Avg BPM": 124,
+    "Day": 2,
+    "Description": "Break out the vinyl!! This guy is deejaying at the highest and purest level. Just mixing turntables like an absolute beast.",
+    "Links to the good stuff": "https://www.youtube.com/embed/Tf2jCTq-OY4",
+    "Geography": "",
+    "Rating rounded": 4
+  },
+  {
+    "Name": "Mike Mccarthy",
+    "Genre": "Techno",
+    "Rating (1-5)": 3.4,
+    "Avg BPM": 130,
+    "Day": 2,
+    "Description": "I'm still holding out hope that Mike Mccarthy, former super bowl champ head coach, is going to walk out. Until then, all else is just a slight letdown. Solid chunes tho.",
+    "Links to the good stuff": "https://www.youtube.com/embed/EmgKACyt3EM",
+    "Geography": "",
+    "Rating rounded": 0
+  },
+  {
     "Name": "1tbsp",
     "Genre": "House",
     "Rating (1-5)": 3.4,
@@ -378,7 +510,7 @@
     "Genre": "Dance Pop",
     "Rating (1-5)": 3.4,
     "Avg BPM": 135,
-    "Day": 2,
+    "Day": 1,
     "Description": "Three songs on the spotify, but there's a clear direction to their music. Reminds me of those eighties electro bands that were pre-emo (see Tears for Fears).",
     "Links to the good stuff": "https://www.youtube.com/embed/tdZ53o5lMRQ",
     "Geography": "",
@@ -396,7 +528,7 @@
     "Rating rounded": 3
   },
   {
-    "Name": "Jersey",
+    "Name": "Jersey - Cancelled??",
     "Genre": "Synth Trance",
     "Rating (1-5)": 4.3,
     "Avg BPM": 145,
@@ -429,7 +561,7 @@
     "Rating rounded": 3
   },
   {
-    "Name": "Love, Shaun",
+    "Name": "Love, Shaun - Cancelled??",
     "Genre": "House",
     "Rating (1-5)": 3.5,
     "Avg BPM": 132,
@@ -580,6 +712,83 @@
     "Description": "More wook bass and it's just making me gassy. The beats are absurdly based and I feel it in my plums. I haven't done enough drugs to love this sound, but it's still fun.",
     "Links to the good stuff": "",
     "Geography": "",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Blaap",
+    "Genre": "Bass",
+    "Rating (1-5)": 3.4,
+    "Avg BPM": 131,
+    "Day": 3,
+    "Description": "Collab between Of The Trees and Freddy Todd. They got some of the best samples here and there and it really skews the scale. GLIZZZOCK. (20')",
+    "Links to the good stuff": "https://www.youtube.com/embed/KSpor-dq3-M",
+    "Geography": "",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Brosa",
+    "Genre": "?",
+    "Rating (1-5)": 0,
+    "Avg BPM": 0,
+    "Day": 3,
+    "Description": "This is the first mystery artist on the lineup. I can't find any trace of this. This is their only proof of existance: https://www.instagram.com/brosa_music/.",
+    "Links to the good stuff": "",
+    "Geography": "",
+    "Rating rounded": 0
+  },
+  {
+    "Name": "DJ Sphinx",
+    "Genre": "House",
+    "Rating (1-5)": 3.8,
+    "Avg BPM": 130,
+    "Day": 3,
+    "Description": "Pleasant little house set with just the right amount of edge. A bit uptempo for the genre, very cool and danceable. Good variety.",
+    "Links to the good stuff": "https://www.youtube.com/embed/LTLe-ZKeJRI",
+    "Geography": "",
+    "Rating rounded": 4
+  },
+  {
+    "Name": "Dogtags",
+    "Genre": "R&B",
+    "Rating (1-5)": 3.8,
+    "Avg BPM": 90,
+    "Day": 3,
+    "Description": "Reminds me of a lot of the better college bands I've seen. They're still quite small, but would be a cool little set to see.",
+    "Links to the good stuff": "https://www.youtube.com/embed/RSYl-_v5Igw",
+    "Geography": "",
+    "Rating rounded": 4
+  },
+  {
+    "Name": "Esseks",
+    "Genre": "Bass",
+    "Rating (1-5)": 2.9,
+    "Avg BPM": 137,
+    "Day": 3,
+    "Description": "A bass artist who's experimenting with rhythm as much as noise is refreshing, but it's still kinda giving me an upset stomach.",
+    "Links to the good stuff": "https://www.youtube.com/embed/Ud7BNJcoMBM",
+    "Geography": "",
+    "Rating rounded": 3
+  },
+  {
+    "Name": "Hypemelo",
+    "Genre": "House",
+    "Rating (1-5)": 3.9,
+    "Avg BPM": 126,
+    "Day": 3,
+    "Description": "Evvybody get up, it's time to slam now. We get a real jam goin now welcome to the space jam... it's your chance, do your dance at the space jam.",
+    "Links to the good stuff": "https://www.youtube.com/embed/2-_ApGXZKHU",
+    "Geography": "",
+    "Rating rounded": 4
+  },
+  {
+    "Name": "Rsun",
+    "Genre": "EDM",
+    "Rating (1-5)": 3.2,
+    "Avg BPM": 160,
+    "Day": 3,
+    "Description": "Genre-wise all over the damn place. I've got no way to categorize this cat, but it goes hard af.",
+    "Links to the good stuff": "https://www.youtube.com/embed/_Duh7K2zSpI",
+    "Geography": "Richmond, VA",
     "Rating rounded": 3
   },
   {
@@ -785,7 +994,7 @@
     "Genre": "RnB, Funk",
     "Rating (1-5)": 4.6,
     "Avg BPM": 107,
-    "Day": 3,
+    "Day": 2,
     "Description": "The illest of rnb bands. Sweet vocals and good vibes. Just great jams and having a nice. I'll get a cat if we don't enjoy this set.",
     "Links to the good stuff": "https://www.youtube.com/embed/DWEjF-57E34",
     "Geography": "",
@@ -833,6 +1042,28 @@
     "Description": "Really wide variety of styles, causing me to really be indecisive on the genre column, but he touches on the best of everything. Generally all danceable stuff with wild samples.",
     "Links to the good stuff": "https://www.youtube.com/embed/Dz6OF5NLVS8",
     "Geography": "",
+    "Rating rounded": 4
+  },
+  {
+    "Name": "Brandi Cyrus",
+    "Genre": "DJ",
+    "Rating (1-5)": 2,
+    "Avg BPM": 128,
+    "Day": 4,
+    "Description": "So this appears to be the first celebrity dj on the list that is more celebrity than dj. Miley Cyrus' sister. Tell the folks we want Paulie D and Paris Hilton.",
+    "Links to the good stuff": "https://www.youtube.com/embed/JDYIVeTgUxs",
+    "Geography": "'murica",
+    "Rating rounded": 2
+  },
+  {
+    "Name": "Halfcab",
+    "Genre": "House",
+    "Rating (1-5)": 3.9,
+    "Avg BPM": 126,
+    "Day": 4,
+    "Description": "Some quality, lesser known, house music. From the looks of it, he might only be here cuz he's friends with Mochakk, but I won't hold it against him.",
+    "Links to the good stuff": "https://www.youtube.com/embed/F9MQ8OkqLCE",
+    "Geography": "Brazil",
     "Rating rounded": 4
   },
   {
